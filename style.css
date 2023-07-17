@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+
+
+.container_Joystick{
+    position: relative;
+    width: 299px;
+    height: 207px;
+    background-color: darkslategray;
+
+}
+
+
+
+.joystick_center{
+    position: absolute;
+    top: 81px;
+    left: 126.5px;
+    width: 45px;
+    height: 45px;
+    cursor: move;
+
+}
+
